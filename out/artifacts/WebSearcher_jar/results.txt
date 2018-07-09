@@ -1,0 +1,1851 @@
+Url : wikipedia.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : linkedin.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : w3.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : blogspot.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : wordpress.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wordpress.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : youtube.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : stumbleupon.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : statcounter.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : feedburner.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : tumblr.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yahoo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : baidu.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : addthis.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : qq.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : blogger.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : instagram.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : icio.us/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : goo.gl/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : facebook.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : microsoft.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : t.co/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.de/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : gov.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : twitter.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : webs.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : bbc.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : amazon.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : digg.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : tinyurl.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : weebly.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : google.co.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : fc2.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yandex.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nytimes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : free.fr/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : mail.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : jimdo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : imdb.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hugedomains.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sourceforge.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : myspace.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : typepad.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : networkadvertising.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : reddit.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : technorati.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : vk.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : huffingtonpost.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : about.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : msn.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : mozilla.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : creativecommons.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : youtu.be/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bing.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : europa.eu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : pinterest.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : joomla.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : nih.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ameblo.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : livejournal.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : tripod.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : gnu.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sina.com.cn/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ebay.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : flickr.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : rambler.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : homestead.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : issuu.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : 51.la/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cnn.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wix.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : forbes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : apple.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : adobe.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : taobao.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yahoo.co.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : theguardian.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : reuters.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : go.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : photobucket.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.fr/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : geocities.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dailymotion.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : soundcloud.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : constantcontact.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : guardian.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mapquest.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : php.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cnet.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : etsy.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : aol.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : opera.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : archive.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bbb.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : phpbb.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : amazon.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mit.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : wikimedia.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : parallels.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : latimes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yelp.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : addtoany.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : live.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.it/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ning.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : washingtonpost.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : godaddy.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : altervista.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : squidoo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : phoca.cz/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : alibaba.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : histats.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : time.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : gravatar.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sakura.ne.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sohu.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : harvard.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : cdc.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : blinklist.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : amazon.de/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wired.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : e-recht24.de/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : nasa.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : narod.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bloomberg.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : angelfire.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.es/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : scribd.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : npr.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : imageshack.us/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : usatoday.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.ca/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : hatena.ne.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : stanford.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : eventbrite.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : nbcnews.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : kickstarter.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ocn.ne.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : weather.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : pbs.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : amazon.co.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : deviantart.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mozilla.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : eepurl.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ibm.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cpanel.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : prweb.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cbsnews.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bandcamp.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nifty.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bluehost.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : apache.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : over-blog.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : foxnews.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : yolasite.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : a8.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : usda.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : whitehouse.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dedecms.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : xrea.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : epa.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nationalgeographic.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mashable.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : loc.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : newsvine.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : disqus.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : seesaa.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : tripadvisor.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : oracle.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : businessweek.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : goo.ne.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : amazonaws.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : berkeley.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cornell.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : biglobe.ne.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : barnesandnoble.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : sfgate.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : techcrunch.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ezinearticles.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mysql.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : freewebs.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : boston.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nps.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : vkontakte.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : imgur.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ted.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : icq.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.nl/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : noaa.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bizjournals.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hp.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : un.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wunderground.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : senate.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : independent.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : alexa.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cbslocal.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ycombinator.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sphinn.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ucoz.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : house.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : people.com.cn/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : opensource.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dailymail.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : webnode.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : irs.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cloudflare.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : soup.io/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : about.me/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : mediafire.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : businessinsider.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : gmpg.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : who.int/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nature.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : umich.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : jugem.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.com.br/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : webmd.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : drupal.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.cn/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ustream.tv/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : skype.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wikia.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : oaic.gov.au/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ifeng.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : xinhuanet.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.pl/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : privacy.gov.au/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : behance.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : paypal.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : reverbnation.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : github.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : surveymonkey.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : spiegel.de/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : telegraph.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dropbox.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cbc.ca/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mac.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : moonfruit.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : exblog.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ed.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : netvibes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : youku.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : auda.org.au/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ft.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ow.ly/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : google.com.au/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : marketwatch.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : squarespace.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : list-manage.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : discovery.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : liveinternet.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : theatlantic.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : chicagotribune.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : state.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : goodreads.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : economist.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ftc.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nydailynews.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cafepress.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : meetup.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : pagesperso-orange.fr/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : skyrock.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : upenn.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : cdbaby.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : diigo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : com.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : elegantthemes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : 1688.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ehow.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : patch.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : uol.com.br/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bigcartel.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : friendfeed.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : utexas.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : abc.net.au/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : nhs.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : slate.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : hubpages.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : zdnet.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : washington.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : slashdot.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ucla.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : columbia.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : flavors.me/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : umn.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yale.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : census.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : howstuffworks.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : usnews.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : jigsy.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : example.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : purevolume.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : marriott.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : lycos.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wikispaces.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : usa.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wisc.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : xing.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : shareasale.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : is.gd/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : usgs.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : g.co/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : cargocollective.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : biblegateway.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : businesswire.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dagondesign.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : edublogs.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yellowbook.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : salon.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : storify.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : netscape.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : reference.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hc360.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : smh.com.au/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : samsung.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : thetimes.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hexun.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : devhub.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : engadget.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : answers.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : trellian.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : artisteer.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : istockphoto.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : so-net.ne.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : unicef.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : i2i.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ebay.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ask.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sciencedaily.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : theglobeandmail.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : plala.or.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : unesco.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : twitpic.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sun.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : infoseek.co.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : paginegialle.it/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : wufoo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ovh.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : intel.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : 1und1.de/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : cmu.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : deliciousdays.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : springer.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : gizmodo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : timesonline.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sciencedirect.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : booking.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : google.com.hk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : blogs.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : smugmug.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : prlog.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : newyorker.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hhs.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : zimbio.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dot.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : craigslist.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : java.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : 360.cn/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : psu.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : uiuc.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : jalbum.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : indiatimes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : github.io/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hibu.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : home.pl/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : printfriendly.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : studiopress.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : webeden.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : cnbc.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : globo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : naver.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mayoclinic.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : 4shared.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : vistaprint.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : chronoengine.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : wp.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : virginia.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : odnoklassniki.ru/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : t-online.de/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : princeton.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dell.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : buzzfeed.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : comcast.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mtv.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : cisco.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : accuweather.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : mlb.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : indiegogo.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : simplemachines.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : chron.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : hud.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : merriam-webster.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : lulu.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : tuttocitta.it/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : tiny.cc/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : fotki.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : multiply.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : rediff.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : ox.ac.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : yellowpages.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : fema.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bravesites.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : shop-pro.jp/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : csmonitor.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : tmall.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nba.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : tamu.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : fastcompany.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : aboutads.info/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hostgator.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : netlog.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nymag.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : vinaora.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : tinypic.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : va.gov/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : toplist.cz/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : pen.io/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : omniture.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : 123-reg.co.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : sogou.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : sbwire.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : msu.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : walmart.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : seattletimes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : arizona.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : true
+-------------------------------------------------
+Url : cam.ac.uk/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : shutterfly.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : acquirethisname.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : blogtalkradio.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : illinois.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : dyndns.org/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : themeforest.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : earthlink.net/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : woothemes.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : spotify.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : elpais.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : arstechnica.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : oakley.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : bloglovin.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : scientificamerican.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ucsd.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : unc.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : china.com.cn/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : hao123.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : ihg.com/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Url : nyu.edu/
+Pattern: (?)We.orks : false
+Pattern: (?)G.ogle : false
+-------------------------------------------------
+Not able to scrape :
+vimeo.com/
+miibeian.gov.cn/
+delicious.com/
+macromedia.com/
+slideshare.net/
+clickbank.net/
+wsj.com/
+163.com/
+posterous.com/
+miitbeian.gov.cn/
+weibo.com/
+rakuten.co.jp/
+ca.gov/
+blog.com/
+comsenz.com/
+geocities.jp/
+discuz.net/
+examiner.com/
+fda.gov/
+last.fm/
+redcross.org/
+topsy.com/
+shinystat.com/
+wiley.com/
+prnewswire.com/
+networksolutions.com/
+sitemeter.com/
+quantcast.com/
+jiathis.com/
+bloglines.com/
+state.tx.us/
+desdev.cn/
+dion.ne.jp/
+ucoz.com/
+cocolog-nifty.com/
+canalblog.com/
+domainmarket.com/
+dmoz.org/
+si.edu/
+de.vu/
+cyberchimps.com/
+symantec.com/
+japanpost.jp/
+admin.ch/
+furl.net/
+army.mil/
+unblog.fr/
+mapy.cz/
+nsw.gov.au/
+pcworld.com/
